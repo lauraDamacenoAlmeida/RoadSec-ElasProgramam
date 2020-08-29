@@ -11,13 +11,13 @@ No workshop foi abordado aspectos introdutórios de visualização de dados, uti
 
 3. [Numpy](): Para fazer manipulação de dados. 
 
-3. [Matplotlib](https://matplotlib.org/): Para a visulização dos dados.
+4. [Matplotlib](https://matplotlib.org/): Para a visulização dos dados.
 
-4.[Seaborn](https://seaborn.pydata.org/): Para visualização dos dados.
+5.[Seaborn](https://seaborn.pydata.org/): Para visualização dos dados.
 
-4. [Scikit-Learn](https://scikit-learn.org/stable/): Para a criação do modelo.
+6. [Scikit-Learn](https://scikit-learn.org/stable/): Para a criação do modelo.
 
-5. [IPython](https://ipython.org/install.html): Para visualizar a arvore de decisão gerada.
+7. [IPython](https://ipython.org/install.html): Para visualizar a arvore de decisão gerada.
 
 
 Para instalar as bibliotecas você pode digitar no terminal:
