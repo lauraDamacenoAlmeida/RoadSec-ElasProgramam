@@ -13,7 +13,7 @@ No workshop foi abordado aspectos introdutórios de visualização de dados, uti
 
 4. [Matplotlib](https://matplotlib.org/): Para a visulização dos dados.
 
-5.[Seaborn](https://seaborn.pydata.org/): Para visualização dos dados.
+5. [Seaborn](https://seaborn.pydata.org/): Para visualização dos dados.
 
 6. [Scikit-Learn](https://scikit-learn.org/stable/): Para a criação do modelo.
 
